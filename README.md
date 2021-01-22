@@ -1,7 +1,7 @@
 # synthetic-attribute-generator
 
 Compile the program:
-g++ -Wall -O3 -std=c++17 -o generator generator.cpp
+`g++ -Wall -O3 -std=c++17 -o generator generator.cpp`
 
 	-Wall: with all warnings
 	-O3: compiler optimization
@@ -9,4 +9,4 @@ g++ -Wall -O3 -std=c++17 -o generator generator.cpp
 	-o: output binary name
 
 Run the program:
-./generator
+`./generator`
