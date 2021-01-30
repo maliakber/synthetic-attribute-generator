@@ -1,4 +1,5 @@
 # synthetic-attribute-generator
+C++ code to generate synthetic attributes (independent, correlated and anti-correlated)
 
 Compile the program:
 `g++ -Wall -O3 -std=c++17 -o generator generator.cpp`
